@@ -23,7 +23,7 @@ The goal of this project was to understand the mathematical foundations of neura
 ## Project Structure
 
 ```text
-src/
+Neural-Network-From-Scratch
 ├── first_neuron.py
 ├── simple_network.py
 ├── mse_loss.py
